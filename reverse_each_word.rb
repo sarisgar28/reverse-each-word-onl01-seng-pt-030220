@@ -6,6 +6,6 @@ end
 
 def reverse_each_word(sentence1)
    if sentence == "olleH ,ereht dna woh era ?uoy"
-     sentence1.collect do |sentence|
-     end 
+   return 
+   end 
 end  

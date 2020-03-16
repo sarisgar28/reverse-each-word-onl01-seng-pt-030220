@@ -5,5 +5,5 @@ def reverse_each_word(sentence)
 end     
 
 def reverse_each_word(sentence1)
-   if sentence ==
+   if sentence == 
 end  

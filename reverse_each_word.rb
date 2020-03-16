@@ -1,5 +1,5 @@
-def reverse_each_world(phrase)
- reverse_each_world.each do |greeting| 
+def reverse_each_world(sentence1)
+sentence1.each do |greeting| 
     return 
   end
 end  

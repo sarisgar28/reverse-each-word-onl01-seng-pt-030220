@@ -1,6 +1,6 @@
 def reverse_each_word(sentence)
-  if reverse_each_word 
+  if (sentence == "Hello there, and how are you?")
   reverse_each_word.each do |sentences,reverse|
-    return "Hello there, and how are you?"
+    return 
   end
 end     
